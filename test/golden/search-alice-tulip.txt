@@ -1,0 +1,4 @@
+# Alice Example  (chat 1, 447700900001@s.whatsapp.net)
+# 1 message(s), oldest first
+
+[2026-01-12 18:40] Alice Example: Don't forget the tulip bulbs.

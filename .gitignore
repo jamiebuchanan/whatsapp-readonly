@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+# Never commit a real WhatsApp store or a copy of one
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm

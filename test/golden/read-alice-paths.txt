@@ -1,0 +1,18 @@
+# Alice Example  (chat 1, 447700900001@s.whatsapp.net)
+# 15 message(s), oldest first, 2 system row(s) hidden
+
+[2026-01-10 09:15] Alice Example: Morning! Are we still on for the allotment on Saturday?
+[2026-01-10 09:17] Me: Yes. I'll bring the spade and the flask.
+[2026-01-10 09:18] Alice Example: [image] Look at the state of the shed  <Media/fixture/shed.jpg>
+[2026-01-10 09:19] Alice Example: [image not downloaded]
+[2026-01-10 09:20] Me: [voice note 1:15]  <Media/fixture/note.opus>
+[2026-01-10 09:21] Alice Example: [video 0:08]  <Media/fixture/clip.mp4>
+[2026-01-10 09:22] Me: [GIF 0:03]  <Media/fixture/laugh.mp4>
+[2026-01-10 09:23] Alice Example: [sticker]  <Media/fixture/sticker.webp>
+[2026-01-10 09:25] Alice Example: [location 52.2053, 0.1218]
+[2026-01-10 09:26] Me: [contact card Pat Placeholder]  <Media/fixture/pat.vcf>
+[2026-01-10 09:27] Alice Example: [document allotment-rota.pdf]  <Media/fixture/allotment-rota.pdf>
+[2026-01-10 09:28] Me: https://example.com/seed-swap
+[2026-01-10 09:30] Alice Example: [unhandled type 99]
+[2026-01-10 09:31] Alice Example: [no text]
+[2026-01-12 18:40] Alice Example: Don't forget the tulip bulbs.

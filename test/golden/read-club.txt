@@ -1,0 +1,7 @@
+# Hiking Club Demo  (chat 3, 120363000000000001@g.us)
+# 4 message(s), oldest first
+
+[2026-01-13 20:10] Dee Demo: The Saturday walk is on, car park at nine.
+[2026-01-13 20:12] Eli Example: I will bring a tulip-patterned flask.
+[2026-01-13 20:13] Me: See you all there.
+[2026-07-01 12:00] Dee Demo: Summer route confirmed.

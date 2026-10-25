@@ -1,0 +1,2 @@
+id	last activity	name	jid
+1	2026-01-12 18:40	Alice Example	447700900001@s.whatsapp.net
