@@ -27,6 +27,8 @@ The whole read-only surface is one short file: [`src/store.mjs`](src/store.mjs).
 
 ## Setup on macOS
 
+Let a coding agent install it: `curl -fsSL https://raw.githubusercontent.com/jamiebuchanan/whatsapp-readonly/main/AGENT-INSTALL.md | claude`
+
 You need:
 
 - A Mac with the native WhatsApp Desktop app, signed in.
