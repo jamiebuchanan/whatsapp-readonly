@@ -58,7 +58,7 @@ This is the real-use check. It reads the user's own WhatsApp data, so it needs t
 node bin/whatsapp-readonly.mjs chats "<name or number>"
 ```
 
-A list of matching chats (id, last activity, name, number) with no message text means it works. If it fails with a message about permissions, grant Full Disk Access to the terminal app, restart the terminal and try again. Only read a chat (`read <id>`) if the user asks for that specific chat.
+A list of matching chats (id, last activity, name, jid) with no message text means it works. If it fails with a message about permissions, grant Full Disk Access to the terminal app, restart the terminal and try again. Only read a chat (`read <id>`) if the user asks for that specific chat.
 
 ## Safety rules
 
