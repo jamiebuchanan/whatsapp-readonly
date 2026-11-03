@@ -1,0 +1,8 @@
+# whatsapp-readonly
+
+> Read one WhatsApp chat at a time from your own local desktop store. Read-only by construction; refuses to dump everything.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/jamiebuchanan/whatsapp-readonly/main/README.md): the safety design, setup on macOS, usage, examples, limits and tests
+- [Agent install guide](https://raw.githubusercontent.com/jamiebuchanan/whatsapp-readonly/main/AGENT-INSTALL.md): steps for a coding agent to install and validate whatsapp-readonly
